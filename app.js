@@ -17,7 +17,7 @@
  */
 
 // Pre-commit cache-buster auto-bumps BUILD and every ?v= on any web-asset change.
-const BUILD = 'v6';
+const BUILD = 'v7';
 
 // --------------------------- UUIDs (BleService.java:327-332, BluetoothService.java:560-562; lowercase for Web BT) ---------------------------
 const U = {
