@@ -146,7 +146,6 @@ window.I18N = {
     warnBikeCustom: 'Motorrad-Parameter wirken nur, wenn im Cockpit der CUSTOM-Fahrmodus aktiv ist.',
     warnLock: 'Das sperrt den Kickscooter (Immobilizer). Entsperren geht nur wieder über Bluetooth.',
     warnUnlock: 'Das hebt die Sperre auf.',
-    disclaimerText: 'Dieses Werkzeug ist eine Machbarkeitsstudie, kein fertiges Produkt. Es gibt keine Gewährleistung und keine Zusicherung fehlerfreien Betriebs. Veränderungen an Fahrparametern können ein Fahrzeug außerhalb des Zustands bringen, in dem es genehmigt wurde. Nutze es nur am eigenen Fahrzeug und auf eigenes Risiko. Die Seite spricht nur lokal über Bluetooth mit dem Gerät, es werden keine Daten an einen Server gesendet. MV Agusta und MV Ride sind Marken des jeweiligen Inhabers. Dieses Projekt ist unabhängig und steht in keiner Verbindung zu MV Agusta.',
 
     errNoWebBt: 'Dieser Browser hat kein Web Bluetooth. Nutze Chrome, Edge oder Bluefy (iOS).',
     errNotConnected: 'nicht verbunden',
@@ -307,7 +306,6 @@ window.I18N = {
     warnBikeCustom: 'Motorcycle parameters take effect only while the CUSTOM ride mode is active in the dashboard.',
     warnLock: 'This locks the kickscooter (immobilizer). It can only be unlocked again over Bluetooth.',
     warnUnlock: 'This releases the lock.',
-    disclaimerText: 'This tool is a feasibility study, not a finished product. There is no warranty and no guarantee of error-free operation. Changing ride parameters can leave a vehicle outside the condition it was approved in. Use it only on your own vehicle and at your own risk. The page talks to the device locally over Bluetooth only, no data is sent to any server. MV Agusta and MV Ride are trademarks of their respective owner. This project is independent and not affiliated with MV Agusta.',
 
     errNoWebBt: 'This browser has no Web Bluetooth. Use Chrome, Edge or Bluefy (iOS).',
     errNotConnected: 'not connected',
